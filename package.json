@@ -1,0 +1,12 @@
+{
+  "name": "re-stumbled-tickets",
+  "version": "1.0.0",
+  "description": "Bot de tickets para Re-Stumbled",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
